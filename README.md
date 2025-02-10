@@ -4,8 +4,7 @@ Welcome to My Capstone Project! This project is a full-stack web application of 
 
 ## FrontEnd Netlify Deployed URL
 
-🔸*Click Here*👉🏻 [![Netlify](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-](https://capstone-frontendpro.netlify.app/)
+🔸*Click Here*👉🏻 [![Netlify](https://capstone-frontendpro.netlify.app/)
 
 ## BackEnd Render Deployed URL 
 🔸[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://capstone-backend-mern-1.onrender.com)
